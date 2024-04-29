@@ -8,8 +8,18 @@
 
 ##### Header 5
 
-###### Header 6
-
-Here's a picture
+###### Here's a picture
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)****
+
+###### Here's some code
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
