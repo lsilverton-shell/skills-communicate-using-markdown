@@ -6,7 +6,11 @@
 
 #### Header 4
 
-##### Header 5
+##### Here's a task list
+
+- [ ] List item 1
+- [ ] List item 2
+- [ ] List item 3
 
 ###### Here's a picture
 
